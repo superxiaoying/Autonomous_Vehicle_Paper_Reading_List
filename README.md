@@ -34,12 +34,23 @@ A collections of papers focus on self-driving car. Many topics are covered inclu
   [[pdf]](http://arxiv.org/abs/1607.00971v1)
 * Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
-
-
-
-
-
-
-
-
-
+### Sensor fussion
+* LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
+* A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
+  [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
+* VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
+### Driving style
+* Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
+* Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
+### Reinforcement learning
+* End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
+* Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
+* Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks [[pdf]](http://arxiv.org/abs/1612.03653v1)
+* Long-term Planning by Short-term Prediction [[pdf]](http://arxiv.org/abs/1602.01580v1)
+* Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
+* Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
+### SLAM
+* Learning from Maps: Visual Common Sense for Autonomous Driving [[pdf]](http://arxiv.org/abs/1611.08583v2）
+* A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7490340http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7490340)
+* Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
+ [[pdf]]http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236
