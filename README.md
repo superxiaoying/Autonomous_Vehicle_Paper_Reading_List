@@ -50,7 +50,7 @@ A collections of papers focus on self-driving car. Many topics are covered inclu
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 ## SLAM
-* Learning from Maps: Visual Common Sense for Autonomous Driving [[pdf]](http://arxiv.org/abs/1611.08583v2）
+* Learning from Maps: Visual Common Sense for Autonomous Driving [[pdf]](http://arxiv.org/abs/1611.08583v2)
 * A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles 
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7490340)
 * Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
