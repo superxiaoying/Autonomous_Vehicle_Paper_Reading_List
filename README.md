@@ -55,4 +55,4 @@ A collections of papers focus on self-driving car. Many topics are covered inclu
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7490340http://ieeexplore.ieee.org/stamp/stamp.jsp?  
    arnumber=7490340)
 * Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
- [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
+   [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
