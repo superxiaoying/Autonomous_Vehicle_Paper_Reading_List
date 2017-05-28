@@ -32,7 +32,7 @@ A collections of papers focus on self-driving car. Many topics are covered inclu
 * Traffic Sign Recognition with Multi-Scale Convolutional Networks [[pdf]](http://ieeexplore.ieee.org/document/6033589/)
 * Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs? 
   [[pdf]](http://arxiv.org/abs/1607.00971v1)
-* Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
+* Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
 
 
