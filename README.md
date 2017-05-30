@@ -1,4 +1,4 @@
-# Autonomous_vehicle_Paper
+# Autonomous_Vehicle_Paper_Reading_List
 A collections of papers focus on self-driving car. Many topics are covered including computer vison, sensor fusion, SLAM, decision and planning. The paper list will be timely updated. 
 <img width="600" height="320" src="https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List/blob/master/Paper%20Cloud.png"/>
 ## Computer vision
