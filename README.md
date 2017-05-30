@@ -4,6 +4,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 ## Computer vision
 * Computer Vision for Autonomous Vehicles:Problems, Datasets and State-of-the-Art [[pdf]](https://arxiv.org/abs/1704.05519v1)
 * An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
+* Video Scene Parsing with Predictive Feature Learning[[pdf]](https://arxiv.org/abs/1612.00119v2)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
 * Learning a Driving Simulator [[pdf]](http://arxiv.org/abs/1608.01230v1)
 * Deep Tracking:Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](https://arxiv.org/abs/1602.00991v2) 
