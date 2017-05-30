@@ -35,6 +35,9 @@ A collections of papers focus on self-driving car. Many topics are covered inclu
   [[pdf]](http://arxiv.org/abs/1607.00971v1)
 * Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
+* Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](http://arxiv.org/abs/1611.07004v1)
+* Unsupervised Image-to-Image Translation Networks [[pdf]](http://arxiv.org/abs/1703.00848v1)
+
 ## Sensor fussion
 * LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
 * A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
