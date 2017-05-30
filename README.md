@@ -3,7 +3,6 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 <img width="600" height="320" src="https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List/blob/master/Paper%20Cloud.png"/>
 ## Computer vision
 * Computer Vision for Autonomous Vehicles:Problems, Datasets and State-of-the-Art [[pdf]](https://arxiv.org/abs/1704.05519v1)
-* Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
 * An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
 * Learning a Driving Simulator [[pdf]](http://arxiv.org/abs/1608.01230v1)
@@ -42,6 +41,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
 * A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
   [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
+* Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
 ## Driving style
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
