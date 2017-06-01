@@ -5,7 +5,6 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Computer Vision for Autonomous Vehicles:Problems, Datasets and State-of-the-Art [[pdf]](https://arxiv.org/abs/1704.05519v1)
 * Video Scene Parsing with Predictive Feature Learning[[pdf]](https://arxiv.org/abs/1612.00119v2)
 * Unsupervised Monocular Depth Estimation with Left-Right Consistency [[pdf]](https://arxiv.org/pdf/1609.03677.pdf)
-* Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 * Learning a Driving Simulator [[pdf]](http://arxiv.org/abs/1608.01230v1)
 * Deep Tracking:Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](https://arxiv.org/abs/1602.00991v2) 
 * End-to-End Tracking and Semantic Segmentation Using Recurrent Neural Networks [[pdf]](https://arxiv.org/abs/1604.05091v2)
@@ -46,6 +45,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
   [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
 * Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
+* Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 ## Driving style
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
 * Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
