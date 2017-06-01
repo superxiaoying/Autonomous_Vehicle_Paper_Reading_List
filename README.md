@@ -1,11 +1,10 @@
 # Autonomous_Vehicle_Paper_Reading_List
 A collection of papers focus on self-driving car. Many topics are covered including computer vison, sensor fusion, SLAM, decision and planning. The paper list will be timely updated. 
-<img width="600" height="320" src="https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List/blob/master/Paper%20Cloud.png"/>
+<img width="600" height="340" src="https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List/blob/master/Paper%20Cloud.png"/>
 ## Computer vision
 * Computer Vision for Autonomous Vehicles:Problems, Datasets and State-of-the-Art [[pdf]](https://arxiv.org/abs/1704.05519v1)
-* An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Video Scene Parsing with Predictive Feature Learning[[pdf]](https://arxiv.org/abs/1612.00119v2)
-* Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
+* Unsupervised Monocular Depth Estimation with Left-Right Consistency [[pdf]](https://arxiv.org/pdf/1609.03677.pdf)
 * Learning a Driving Simulator [[pdf]](http://arxiv.org/abs/1608.01230v1)
 * Deep Tracking:Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](https://arxiv.org/abs/1602.00991v2) 
 * End-to-End Tracking and Semantic Segmentation Using Recurrent Neural Networks [[pdf]](https://arxiv.org/abs/1604.05091v2)
@@ -37,6 +36,8 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
 * Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](http://arxiv.org/abs/1611.07004v1)
 * Unsupervised Image-to-Image Translation Networks [[pdf]](http://arxiv.org/abs/1703.00848v1)
+* An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
+* Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
 
 ## Sensor fussion
 * LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
