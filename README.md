@@ -36,6 +36,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
 * Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](http://arxiv.org/abs/1611.07004v1)
 * Unsupervised Image-to-Image Translation Networks [[pdf]](http://arxiv.org/abs/1703.00848v1)
+* A Unified Multi-scale Deep Convolutional Neural Network for Fast Object  Detection[[pdf]](http://arxiv.org/abs/1607.07155v1)
 * An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
 
