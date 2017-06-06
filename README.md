@@ -40,10 +40,10 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers
   [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Exploit_All_the_CVPR_2016_paper.html)
 * Multi-Class Multi-Object Tracking using Changing Point Detection[[pdf]](https://arxiv.org/abs/1608.08434v1)
-* An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
+* Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection[[pdf]](https://arxiv.org/abs/1604.04693v3）
 * Overview of Environment Perception for Intelligent Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7857073/)
+* An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
-
 ## Sensor fussion
 * LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
 * A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
