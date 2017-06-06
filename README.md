@@ -39,7 +39,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * A Unified Multi-scale Deep Convolutional Neural Network for Fast Object  Detection[[pdf]](http://arxiv.org/abs/1607.07155v1)
 * Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers
   [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Exploit_All_the_CVPR_2016_paper.html)
-* Multi-Class Multi-Object Tracking using Changing Point Detection[[pdf]]https://arxiv.org/abs/1608.08434v1
+* Multi-Class Multi-Object Tracking using Changing Point Detection[[pdf]](https://arxiv.org/abs/1608.08434v1)
 * An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Overview of Environment Perception for Intelligent Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7857073/)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
@@ -62,10 +62,10 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 ## SLAM
+* Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
+   [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
 * Learning from Maps: Visual Common Sense for Autonomous Driving [[pdf]](http://arxiv.org/abs/1611.08583v2)
 * A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles 
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7490340)
-* Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
-   [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
 * Image-based localization using LSTMs for structured feature correlation [[pdf]](https://arxiv.org/abs/1611.07890v3)
 * PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization[[pdf]](https://arxiv.org/abs/1505.07427v4)
