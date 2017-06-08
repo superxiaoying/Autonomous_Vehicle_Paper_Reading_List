@@ -18,8 +18,8 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving [[pdf]](https://arxiv.org/abs/1505.00256v3)
 * End-to-end Learning of Driving Models from Large-scale Video Datasets [[pdf]](https://arxiv.org/abs/1612.01079v1)
 * Fully Convolutional Networks for Semantic Segmentation [[pdf]](http://arxiv.org/abs/1611.07759v2)
-* SegNet: A Deep Convolutional Encoder-Decoder Architecture for Robust Semantic Pixel-Wise labelling
-  [[pdf]](https://arxiv.org/abs/1505.07293v1)
+* SegNet: SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
+  [[pdf]](https://arxiv.org/abs/1511.00561v3)
 * Feature Pyramid Networks for Object Detection[[pdf]](http://arxiv.org/abs/1612.03144v2)
 * Mask R-CNN [[pdf]](http://arxiv.org/abs/1703.06870v2)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[pdf]](https://arxiv.org/abs/1506.01497v3)
