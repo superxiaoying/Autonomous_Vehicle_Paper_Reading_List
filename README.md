@@ -44,7 +44,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Overview of Environment Perception for Intelligent Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7857073/)
 * An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
 * Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
-## Sensor fussion
+## Sensor fusion
 * LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
 * A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
   [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
