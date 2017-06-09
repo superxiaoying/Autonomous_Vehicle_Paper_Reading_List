@@ -55,6 +55,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 ## Driving style
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
 * Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
+* Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network [[pdf]](https://arxiv.org/pdf/1704.07049.pdf)
 ## Reinforcement learning
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
