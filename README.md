@@ -52,6 +52,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
 * 3D Object Proposals using Stereo Imagery for Accurate Object Class Detection [[pdf]](https://arxiv.org/abs/1608.07711v2)
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
+* Vehicle Detection from 3D Lidar Using Fully Convolutional Network[[pdf]](https://arxiv.org/abs/1608.07916v1)
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 ## Driving style
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
