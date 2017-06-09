@@ -50,6 +50,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
   [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
 * Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture [[pdf]](http://arxiv.org/abs/1601.00740v1)
 * Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
+* 3D Object Proposals using Stereo Imagery for Accurate Object Class Detection [[pdf]](https://arxiv.org/abs/1608.07711v2)
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 ## Driving style
