@@ -67,6 +67,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Long-term Planning by Short-term Prediction [[pdf]](http://arxiv.org/abs/1602.01580v1)
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
+* Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation [[pdf]](https://arxiv.org/abs/1705.10422v1)
 ## SLAM
 * Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
