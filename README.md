@@ -25,6 +25,8 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[pdf]](https://arxiv.org/abs/1506.01497v3)
 * You Only Look Once:Unified, Real-Time Object Detection [[pdf]](https://arxiv.org/abs/1506.02640v5)
 * YOLO9000: Better,Faster, Stronger  [[pdf]](https://arxiv.org/abs/1612.08242v1)
+* SSD: Single Shot MultiBox Detector [[pdf]](https://arxiv.org/abs/1512.02325v5)
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks [[pdf]](http://arxiv.org/abs/1605.06409v2)
 * Predicting Deeper into the Future of Semantic Segmentation [[pdf]](http://arxiv.org/abs/1703.07684v2)
 * Long-term Recurrent Convolutional Networks for Visual Recognition and Description [[pdf]](http://arxiv.org/abs/1411.4389v4)
 * MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1612.07695v1)
