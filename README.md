@@ -12,6 +12,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
   [[pdf]](http://arxiv.org/abs/1609.09365v3)
 * Deep MANTA: A Coarse-to-fine Many-Task Network for joint 2D and 3D vehicle analysis from monocular image   
   [[pdf]](https://arxiv.org/abs/1703.07570v1)
+* 3D Object Proposals using Stereo Imagery for Accurate Object Class Detection [[pdf]](https://arxiv.org/abs/1608.07711v2)
 * On the Sample Complexity of End-to-end Training vs. Semantic Abstraction Training [[pdf]](http://arxiv.org/abs/1604.06915v1)
 * End to End Learning for Self-Driving Cars [[pdf]](http://arxiv.org/abs/1604.07316v1)
 * Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/abs/1704.07911v1)
@@ -52,7 +53,6 @@ A collection of papers focus on self-driving car. Many topics are covered includ
   [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
 * Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture [[pdf]](http://arxiv.org/abs/1601.00740v1)
 * Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
-* 3D Object Proposals using Stereo Imagery for Accurate Object Class Detection [[pdf]](https://arxiv.org/abs/1608.07711v2)
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
 * Vehicle Detection from 3D Lidar Using Fully Convolutional Network[[pdf]](https://arxiv.org/abs/1608.07916v1)
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
