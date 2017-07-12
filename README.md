@@ -62,7 +62,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
 * Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
 * Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network [[pdf]](https://arxiv.org/pdf/1704.07049.pdf)
-## Reinforcement learning
+## Motion planning & Reinforcement learning
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
 * Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks [[pdf]](http://arxiv.org/abs/1612.03653v1)
@@ -70,6 +70,8 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 * Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation [[pdf]](https://arxiv.org/abs/1705.10422v1)
+* A Fast Integrated Planning and Control Framework for Autonomous Driving via Imitation Learning [[pdf]](https://arxiv.org/abs/1707.02515v1)
+* A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
 ## SLAM
 * Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
